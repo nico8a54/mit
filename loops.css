@@ -1,0 +1,14 @@
+.counterContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    margin: 200px auto;
+}
+
+h1 {
+    display: flex;
+    flex-direction: column;
+    font-size: 100px;
+    text-align: center;
+}
